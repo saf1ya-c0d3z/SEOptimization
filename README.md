@@ -21,6 +21,15 @@ I worked by myself and considered the following user story:
 * WHEN I view the title element
 * THEN I find a concise, descriptive title
 
+## Screenshots
+
+<img width="1512" alt="Screenshot 2022-12-09 at 9 08 44 AM" src="https://user-images.githubusercontent.com/118941179/206755966-2dd4b67c-c3ae-4547-af62-b7bb3d2d3126.png">
+
+<img width="1512" alt="Screenshot 2022-12-09 at 9 08 50 AM" src="https://user-images.githubusercontent.com/118941179/206756021-84ee82a0-69c0-474d-abc3-32ea0ce2e245.png">
+
+
+<img width="1512" alt="Screenshot 2022-12-09 at 9 08 40 AM" src="https://user-images.githubusercontent.com/118941179/206755860-06f6dc07-16b2-4705-9a3f-96ac6dd77969.png">
+
 ## 💡 Notes
 * Work on your code in a repository and clone the main branch from GitHub
 * Make sure the application loads with no errors
